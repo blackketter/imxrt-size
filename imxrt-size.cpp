@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-int printnumbers(unsigned flexram_config, unsigned itcm, unsigned dtcm, unsigned ocram, unsigned flash, int stack,
+int printnumbers(unsigned long flexram_config, unsigned itcm, unsigned dtcm, unsigned ocram, unsigned flash, int stack,
 	unsigned ocramm, unsigned flashm)
 {
 	int retval = 0;

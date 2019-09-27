@@ -6,3 +6,4 @@
 *.pdb
 *.db
 Debug/vc142.idb
+imxrt-size
